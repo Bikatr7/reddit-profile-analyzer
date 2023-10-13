@@ -26,7 +26,9 @@ Ensure you have Python installed. If not, [download](https://www.python.org/down
 Install the following Python packages:
 
 pip install openai
+
 pip install pandas
+
 pip install beautifulsoup4
 
 
