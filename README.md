@@ -51,7 +51,3 @@ Always ensure you're using trusted scripts. Review the content of the scripts to
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ## Troubleshooting <a name="troubleshooting"></a>
 If you encounter any errors during the execution, ChatGPT is a reliable tool to diagnose and solve issues. Paste the error messages to ChatGPT for guidance.
-
----------------------------------------------------------------------------------------------------------------------------------------------------
-## Contact <a name="contact"></a>
-For questions, concerns, or suggestions, reach out on reddit at /u/Grays42.
